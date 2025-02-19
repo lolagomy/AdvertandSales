@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 import warnings
 warnings.filterwarnings('ignore')
-import plotly.express as px
+#import plotly.express as px
 
 # st.title('Adverts and Sales')
 # st.header('Built by Lola')
